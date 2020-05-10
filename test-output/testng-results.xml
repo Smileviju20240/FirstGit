@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23498" started-at="2020-05-10T01:19:41Z" finished-at="2020-05-10T01:20:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23498" started-at="2020-05-10T01:19:41Z" finished-at="2020-05-10T01:20:04Z">
+      <class name="com.github.SeleniumToDoMVC.EditingTodos">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.github.SeleniumToDoMVC.EditingTodos@4883b407]" name="beforeTest" is-config="true" duration-ms="18888" started-at="2020-05-10T01:19:41Z" finished-at="2020-05-10T01:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="edittodos()[pri:0, instance:com.github.SeleniumToDoMVC.EditingTodos@4883b407]" name="edittodos" duration-ms="2832" started-at="2020-05-10T01:20:00Z" finished-at="2020-05-10T01:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edittodos -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.github.SeleniumToDoMVC.EditingTodos@4883b407]" name="afterTest" is-config="true" duration-ms="1716" started-at="2020-05-10T01:20:02Z" finished-at="2020-05-10T01:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.github.SeleniumToDoMVC.EditingTodos -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
